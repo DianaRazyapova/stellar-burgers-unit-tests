@@ -4,10 +4,10 @@ import org.junit.runner.RunWith;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.junit.MockitoJUnitRunner;
-import com.example.Bun;
-import com.example.Burger;
-import com.example.Ingredient;
-import com.example.IngredientType;
+import praktikum.Bun;
+import praktikum.Burger;
+import praktikum.Ingredient;
+import praktikum.IngredientType;
 
 
 @RunWith(MockitoJUnitRunner.class)

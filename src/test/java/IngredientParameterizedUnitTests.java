@@ -1,5 +1,5 @@
-import com.example.Ingredient;
-import com.example.IngredientType;
+import praktikum.Ingredient;
+import praktikum.IngredientType;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

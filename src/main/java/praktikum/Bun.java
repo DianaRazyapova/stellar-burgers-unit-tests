@@ -1,4 +1,4 @@
-package com.example;
+package praktikum;
 
 /**
  * Модель булочки для бургера.
